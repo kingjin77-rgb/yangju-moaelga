@@ -2,8 +2,8 @@
   "id": "./",
   "name": "양주 백석 모아엘가 그랑데 입주예정자협의회",
   "short_name": "양주",
-  "description": "양주 백석 모아엘가 그랑데 입주예정자협의회 플랫폼 · 법무법인 제이엘",
-  "start_url": "./",
+  "description": "양주 백석 모아엘가 그랑데 전자 위임장 · 법무법인 제이엘",
+  "start_url": "./#delegate",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
@@ -39,16 +39,6 @@
     {
       "name": "위임장 제출",
       "url": "./#delegate",
-      "icons": [
-        {
-          "src": "icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "내 접수 확인",
-      "url": "./#check",
       "icons": [
         {
           "src": "icon-192.png",
